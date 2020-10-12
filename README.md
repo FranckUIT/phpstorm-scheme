@@ -19,12 +19,12 @@ Les différents fichiers posent les règles par défaut de l'IDE, mais elles peu
 (reprise d'un code ayant des règles complètement différentes comme par exemple les projets Drupal ou WordPress).
 
 ## Mise en place
-1. Le fichier `Scheme UmanIT.xml` s'importe dans **Settings -> Editor -> Code Style**
+1. Le fichier `Scheme UmanIT.xml` s'importe dans **Preferences... (MAC)/ Settings (Linux) -> Editor -> Code Style**
     * En haut de la fenêtre, cliquer sur le bouton de menu à droite de la liste déroulante
     * Sélectionner **Import Scheme** tout en bas
     * Choisir **IntelliJ IDEA code style XML**
     * Sélectionner le fichier **Scheme UmanIT.xml**
-1. Le fichier `Profile UmanIT.xml` s'importe dans **Settigns -> Editor -> Inspection**
+1. Le fichier `Profile UmanIT.xml` s'importe dans **Preferences... (MAC)/ Settings (Linux) -> Editor -> Inspection**
     * En haut de la fenêtre, cliquer sur le bouton de menu à droite de la liste déroulante
     * Sélectionner **Import Profile...** tout en bas
     * Sélectionner le fichier **Profile UmanIT.xml**
